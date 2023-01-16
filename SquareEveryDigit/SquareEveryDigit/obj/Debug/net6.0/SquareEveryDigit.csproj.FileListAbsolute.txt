@@ -1,0 +1,15 @@
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.csproj.AssemblyReference.cache
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.AssemblyInfo.cs
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.exe
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.deps.json
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.runtimeconfig.json
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.dll
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\bin\Debug\net6.0\SquareEveryDigit.pdb
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.dll
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\refint\SquareEveryDigit.dll
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.pdb
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\SquareEveryDigit.genruntimeconfig.cache
+C:\Repos\CodeWars\SquareEveryDigit\SquareEveryDigit\obj\Debug\net6.0\ref\SquareEveryDigit.dll
