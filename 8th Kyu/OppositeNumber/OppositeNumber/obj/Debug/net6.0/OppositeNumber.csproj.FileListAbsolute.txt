@@ -1,0 +1,15 @@
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.csproj.AssemblyReference.cache
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.AssemblyInfo.cs
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\bin\Debug\net6.0\OppositeNumber.exe
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\bin\Debug\net6.0\OppositeNumber.deps.json
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\bin\Debug\net6.0\OppositeNumber.runtimeconfig.json
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\bin\Debug\net6.0\OppositeNumber.dll
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\bin\Debug\net6.0\OppositeNumber.pdb
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.dll
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\refint\OppositeNumber.dll
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.pdb
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\OppositeNumber.genruntimeconfig.cache
+C:\Repos\CodeWars\8th Kyu\OppositeNumber\OppositeNumber\obj\Debug\net6.0\ref\OppositeNumber.dll
