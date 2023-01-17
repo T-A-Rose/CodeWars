@@ -1,0 +1,15 @@
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\bin\Debug\net6.0\StopgninnipSMysdroW!.exe
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\bin\Debug\net6.0\StopgninnipSMysdroW!.deps.json
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\bin\Debug\net6.0\StopgninnipSMysdroW!.runtimeconfig.json
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\bin\Debug\net6.0\StopgninnipSMysdroW!.dll
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\bin\Debug\net6.0\StopgninnipSMysdroW!.pdb
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.csproj.AssemblyReference.cache
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.AssemblyInfo.cs
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.dll
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\refint\StopgninnipSMysdroW!.dll
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.pdb
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\StopgninnipSMysdroW!.genruntimeconfig.cache
+C:\Repos\CodeWars\6th Kyu\StopgninnipSMysdroW!\StopgninnipSMysdroW!\obj\Debug\net6.0\ref\StopgninnipSMysdroW!.dll
