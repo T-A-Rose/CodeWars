@@ -1,0 +1,15 @@
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\bin\Debug\net6.0\RomanNumeralsDecoder.exe
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\bin\Debug\net6.0\RomanNumeralsDecoder.deps.json
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\bin\Debug\net6.0\RomanNumeralsDecoder.runtimeconfig.json
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\bin\Debug\net6.0\RomanNumeralsDecoder.dll
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\bin\Debug\net6.0\RomanNumeralsDecoder.pdb
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.csproj.AssemblyReference.cache
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.AssemblyInfo.cs
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.dll
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\refint\RomanNumeralsDecoder.dll
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.pdb
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\RomanNumeralsDecoder.genruntimeconfig.cache
+C:\Repos\CodeWars\6th Kyu\RomanNumeralsDecoder\RomanNumeralsDecoder\obj\Debug\net6.0\ref\RomanNumeralsDecoder.dll
