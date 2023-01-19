@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine(RomanDecode.Solution("I"));
+Console.ReadLine();
 
-RomanDecode.Solution("MCMLIV");
 
 public class RomanDecode
 {
@@ -19,20 +19,17 @@ public class RomanDecode
             { 'M', 1000 }
         };
 
-        if (roman.Length % 2 == 0)
+        for (var i = 0; i < roman.ToCharArray().Length; i++)
         {
-
-        }
-        char[] tempChars = roman.Split();
-        char[] romanChars = roman.ToCharArray();
-        if (romanChars.Count % 2 = 0)
-        {
-
-        }
-        foreach (char c in romanChars)
-        {
-            romanNumbersDictionary.TryGetValue(c, out var num);
-            sum += num;
+            romanNumbersDictionary.TryGetValue(roman[i], out var num);
+            if (i + 1 < roman.Length && romanNumbersDictionary[roman[i + 1]] > romanNumbersDictionary[roman[i]])
+            {
+                sum -= romanNumbersDictionary[roman[i]];
+            }
+            else
+            {
+                sum += romanNumbersDictionary[roman[i]];
+            }
         }
         return sum;
     }
