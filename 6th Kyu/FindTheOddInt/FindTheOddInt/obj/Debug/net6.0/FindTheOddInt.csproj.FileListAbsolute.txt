@@ -1,0 +1,15 @@
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.exe
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.deps.json
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.runtimeconfig.json
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.dll
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.pdb
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.AssemblyReference.cache
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfoInputs.cache
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfo.cs
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.dll
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\refint\FindTheOddInt.dll
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.pdb
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.genruntimeconfig.cache
+C:\Repos\CodeWars\6th Kyu\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\ref\FindTheOddInt.dll

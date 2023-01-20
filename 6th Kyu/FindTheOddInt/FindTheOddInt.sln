@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{C2DB272A-BCFF-4054-B538-B72CACD5177A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionTest", "SolutionTest\SolutionTest.csproj", "{40599EE8-3CF5-4A6C-A2C4-001763A2EB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DB272A-BCFF-4054-B538-B72CACD5177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DB272A-BCFF-4054-B538-B72CACD5177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DB272A-BCFF-4054-B538-B72CACD5177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DB272A-BCFF-4054-B538-B72CACD5177A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40599EE8-3CF5-4A6C-A2C4-001763A2EB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40599EE8-3CF5-4A6C-A2C4-001763A2EB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40599EE8-3CF5-4A6C-A2C4-001763A2EB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40599EE8-3CF5-4A6C-A2C4-001763A2EB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9EF30F-BB34-48D4-9053-B495F7E6D926}
+	EndGlobalSection
+EndGlobal
