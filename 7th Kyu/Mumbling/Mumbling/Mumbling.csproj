@@ -14,4 +14,8 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MumblingTests\MumblingTests.csproj" />
+    </ItemGroup>
+
 </Project>

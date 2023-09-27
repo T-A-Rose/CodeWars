@@ -1,30 +1,36 @@
-﻿Console.WriteLine(Accum("ZpglnRxqenU"));
-static String Accum(string s)
+﻿using System;
+
+public class Accumulation
 {
-    char[] charArr = s.ToCharArray();
-    List<char> testList = new List<char>();
-    for (var i = 0; i < charArr.Length; i++)
+    Accum("ZpglnRxqenU");
+    public static String Accum(string s)
     {
-        if (!testList.Any())
+        char[] charArr = s.ToCharArray();
+        List<char> testList = new List<char>();
+        for (var i = 0; i < charArr.Length; i++)
         {
-            testList.Add(charArr[i]);
-        } else if (testList[i - 1] != charArr[i])
-        {
-            for (int y = 0; y < i + 1; y++)
+            if (!testList.Any())
             {
-                if (y == 0)
+                testList.Add(charArr[i]);
+            } else if (testList[i - 1] != charArr[i])
+            {
+                for (int y = 0; y < i + 1; y++)
                 {
-                    testList.Add('-');
-                    testList.Add(char.ToUpper(charArr[i]));
-                }
-                else
-                {
-                    testList.Add(charArr[i]);    
+                    if (y == 0)
+                    {
+                        testList.Add('-');
+                        testList.Add(char.ToUpper(charArr[i]));
+                    }
+                    else
+                    {
+                        testList.Add(charArr[i]);    
+                    }
                 }
             }
         }
-    }
 
-    var tempString = Path.Combine(testList.ToString());
-    return tempString;
+        var tempString = Path.Combine(testList.ToString());
+        return tempString;
+    }
 }
+
