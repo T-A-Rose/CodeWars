@@ -34,7 +34,7 @@ public class Kata
         {
             charsArr.Add(c);
         }
-
+        //purely testing a branch rule
        var reversedWord = string.Join("", charsArr);
        return reversedWord;
     }
